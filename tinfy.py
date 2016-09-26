@@ -1,5 +1,4 @@
 import tinify
-import apikey
 import os
 
 tinify.key = hidden
